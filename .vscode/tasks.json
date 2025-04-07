@@ -6,7 +6,7 @@
             "command": "dotnet",
             "type": "process",
             "args": [
-                "build",
+                "build", 
                 "${workspaceFolder}/NetCore.OAuth/NetCore.OAuth.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
